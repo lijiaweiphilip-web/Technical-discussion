@@ -15,3 +15,6 @@ This is a good example of my [code](https://gist.github.com/lijiaweiphilip-web/6
 
 This is the [notebook](technical_docs.ipynb)
 
+### Image
+
+https://github.com/lijiaweiphilip-web/Technical-discussion/issues/1#issue-3820591377
